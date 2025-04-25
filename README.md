@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">
+  Welcome to my Github! 
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"/>
+</h1>
 
-<!--
-**xAlexMGGx/xAlexMGGx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### :man_technologist: About Me 
+I am a Mathematical and AI engineer from Madrid, Spain.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :telescope: Working as a Researcher
+
+- :books: Continuously looking to learn more about Mathematics and AI
+
+- 👯 Learning new skills in NLP and LLMs
+  
+- :zap: And always looking for new job opportunities!.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-martinez-de-guinea-garcia/)
+
+---
+### :hammer_and_wrench: Languages and Tools
+Experience using ![Pytorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white) ![Python Badge](	https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue) ![Latex Badge](https://img.shields.io/badge/LaTeX-47A141?style=flat&logo=LaTeX&logoColor=white) ![Numpy Badge](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white) ![Pandas Badge](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white) ![LangChain Badge](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![HuggingFace Badge](https://img.shields.io/badge/-HuggingFace-FDEE21?style=flat&logo=HuggingFace&logoColor=black) and more!
